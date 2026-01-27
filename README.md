@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nisarg%20Vashi&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Edge%20AI%20Innovator%20%7C%20Full-Stack%20Developer&descSize=22&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nisarg%20Vashi&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Edge%20AI%20Innovator%20%7C%20Full-Stack%10AI%20Developer&descSize=22&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF2D2D&center=true&vCenter=true&width=900&height=100&lines=AI+Researcher+%F0%9F%94%AC+Building+The+Future;Edge+AI+Engineer+%F0%9F%A4%96+Real-Time+Systems;Diffusion+Models+%E2%98%81%EF%B8%8F+Generative+AI;Robotics+%26+Spectral+AI+%F0%9F%9A%80+Innovation)](https://git.io/typing-svg)
 
@@ -76,7 +76,6 @@ Research → Real systems → Impact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/info-gallary)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:23bce370@nirmauni.ac.in)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF2D2D?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=000000)](https://yourportfolio.com)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
 
@@ -91,11 +90,8 @@ Research → Real systems → Impact
 ### 🧑‍💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=306998&labelColor=000000)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=000000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=000000)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=0076A8&labelColor=000000)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=00599C&labelColor=000000)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
 
 ---
 
@@ -110,7 +106,6 @@ Research → Real systems → Impact
 ![GNN](https://img.shields.io/badge/GNN-3498DB?style=for-the-badge&logo=pytorch&logoColor=3498DB&labelColor=000000)
 ![OCR](https://img.shields.io/badge/OCR-E74C3C?style=for-the-badge&logo=opencv&logoColor=E74C3C&labelColor=000000)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
 ---
 
@@ -124,7 +119,6 @@ Research → Real systems → Impact
 ![PgVector](https://img.shields.io/badge/PgVector-336791?style=for-the-badge&logo=postgresql&logoColor=336791&labelColor=000000)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=412991&labelColor=000000)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="100">
 
 ---
 
@@ -139,7 +133,6 @@ Research → Real systems → Impact
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4&labelColor=000000)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=764ABC&labelColor=000000)
 
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 ---
 
@@ -151,7 +144,6 @@ Research → Real systems → Impact
 ![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=eclipse-mosquitto&logoColor=660066&labelColor=000000)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=5C3EE8&labelColor=000000)
 
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 
 ---
 
@@ -195,29 +187,6 @@ Research → Real systems → Impact
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=info-gallary&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/info-gallary/info-gallary/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/info-gallary/info-gallary/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/info-gallary/info-gallary/output/github-contribution-grid-snake.svg">
-</picture>
-
-</div>
 
 ---
 
