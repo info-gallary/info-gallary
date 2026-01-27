@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nisarg%20Vashi&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Edge%20AI%20Innovator%20%7C%20Full-Stack%10AI%20Developer&descSize=22&descAlignY=58)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Nisarg%20Vashi&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=AI%20Research%20Engineer%20%7C%20Edge%20AI%20Innovator%20%7C%20FullStack%10AI%20Developer&descSize=22&descAlignY=58)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2500&pause=800&color=FF2D2D&center=true&vCenter=true&width=900&height=100&lines=AI+Researcher+%F0%9F%94%AC+Building+The+Future;Edge+AI+Engineer+%F0%9F%A4%96+Real-Time+Systems;Diffusion+Models+%E2%98%81%EF%B8%8F+Generative+AI;Robotics+%26+Spectral+AI+%F0%9F%9A%80+Innovation)](https://git.io/typing-svg)
 
