@@ -166,28 +166,6 @@ Research → Real systems → Impact
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=info-gallary&show_icons=true&theme=radical&bg_color=0D1117&title_color=FF2D2D&icon_color=FF2D2D&text_color=FFFFFF&border_color=FF2D2D&hide_border=false&border_radius=10"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=info-gallary&layout=compact&theme=radical&bg_color=0D1117&title_color=FF2D2D&text_color=FFFFFF&border_color=FF2D2D&hide_border=false&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=info-gallary&theme=radical&background=0D1117&ring=FF2D2D&fire=FF2D2D&currStreakLabel=FF2D2D&border=FF2D2D&border_radius=10"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=info-gallary&theme=react-dark&bg_color=0D1117&color=FF2D2D&line=FF2D2D&point=FFFFFF&area=true&hide_border=false&border_color=FF2D2D&radius=10"/>
-
-</div>
 
 
 ---
