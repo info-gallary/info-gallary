@@ -75,7 +75,7 @@ Research → Real systems → Impact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://linkedin.com)
+[![LinkedIn](https://www.linkedin.com/in/nisarg-vashi-b05211282/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/info-gallary)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:23bce370@nirmauni.ac.in)
 
