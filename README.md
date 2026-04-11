@@ -44,7 +44,7 @@ High-performance AI deployment & scaling
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" alt=""/>
 
-**🌱 Currently Learning**  
+**🌱 Currently Learning & Building**  
 Physics-Informed AI & Agentic Systems
 
 </td>
@@ -75,7 +75,7 @@ Research → Real systems → Impact
 
 <div align="center">
 
-[![LinkedIn](https://www.linkedin.com/in/nisarg-vashi-b05211282/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-181717?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/nisarg-vashi-b05211282/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000)](https://github.com/info-gallary)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:23bce370@nirmauni.ac.in)
 
