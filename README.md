@@ -22,29 +22,27 @@
 <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="50" alt=""/>
 
 **🔭 Working On**  
-Edge AI, Spectral Intelligence, Diffusion Models, Robotics
+Edge AI, Spectral Intelligence, Diffusion Models, Robotics + AI, DeepRL
 
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/216121986-1a506a75-2381-41c2-baff-eeab4ec583c0.png" width="50" alt=""/>
 
-**👯 Collaborating On**  
-AI research platforms & real-world ML systems
-
+**Inspired By**  
+Dr. APJ Abdul Kalam & The Batman
 </td>
 </tr>
 <tr>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="50" alt=""/>
 
-**🤝 Need Help With**  
-High-performance AI deployment & scaling
-
+**🤝 Need Help With (FreeLancing work)**  
+ComputerVision and Agentic AI 
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" alt=""/>
 
-**🌱 Currently Learning & Building**  
+**🌱 Learning & Building**  
 Physics-Informed AI & Agentic Systems
 
 </td>
@@ -54,14 +52,14 @@ Physics-Informed AI & Agentic Systems
 <img src="https://user-images.githubusercontent.com/74038190/216122003-15d6c2f8-4f43-4c8c-8f70-6e95f1c8e6a6.png" width="50" alt=""/>
 
 **💬 Ask Me About**  
-AI Research, Satellites, Robotics, Startups
+AI Research, EO Models, Startups
 
 </td>
 <td align="center" width="50%">
 <img src="https://user-images.githubusercontent.com/74038190/216121919-60befe4d-11c6-4227-8992-35221d13d9db.png" width="50" alt=""/>
 
 **⚡ Philosophy**  
-Research → Real systems → Impact
+Arise, awake, and stop not until the goal is achieved
 
 </td>
 </tr>
