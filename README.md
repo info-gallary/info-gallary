@@ -4,7 +4,7 @@
 
 ### AI Research Engineer
 
-**Edge AI · Generative AI · Agentic AI · Robotics**
+**Edge AI · Generative AI · Agentic AI · Deep Learning · Physics **
 
 <sub>Inspired by Dr. A.P.J. Abdul Kalam & The Batman</sub>
 
