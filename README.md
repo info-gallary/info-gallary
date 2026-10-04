@@ -6,6 +6,8 @@
 
 **Edge AI · Generative AI · Agentic AI · Deep Learning · Physics **
 
+// Fortune favours the brave.
+
 <sub>Inspired by Dr. A.P.J. Abdul Kalam & The Batman</sub>
 
 <br><br>
